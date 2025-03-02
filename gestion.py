@@ -42,6 +42,7 @@ def main():
             print("⚠️ Error: Ingrese valores numéricos válidos.")
 
     print("\n🚀 Gracias por usar el sistema de envíos. ¡Hasta luego!")
+    print("/ADIOS")
 
 
 if __name__ == "__main__":
