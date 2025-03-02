@@ -47,6 +47,7 @@ def menu():
             gestion.mostrar_paquetes()
         elif opcion == "3":
             print("👋 Saliendo del programa...")
+            print("EPAAAAA")
             break
         else:
             print("⚠️ Opción no válida. Intente de nuevo.")
