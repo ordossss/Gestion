@@ -1,5 +1,5 @@
 import unittest
-from gestion_paquetes import GestionEnvios
+from main import GestionEnvios
 
 class TestGestionEnvios(unittest.TestCase):
     def setUp(self):
